@@ -12,8 +12,11 @@ El proceso de extracción, transformación y cargue de datos se dividió en dos 
 # Autor
 
 Oscar Javier Abril Tique
+
 Máster Universitario en Ciencia de Datos
+
 Big Data en Sistema de información geográfica
+
 
 # Tutores
 Anna Muñoz Bollas
