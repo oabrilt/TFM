@@ -23,15 +23,27 @@ Albert Solé Ribalta
 # Estructura del Git
 Carpetas
 Análisis            Contiene 10 mapas que visulizan los diferentes tipos de cluster y los analisis de las 5 principales variables
+
 Codigo	            Contiene 1 fichero con el codigo realizado en python 
+
 Demograficos	      Contiene 3 ficheros con los mapas demograficos 
+
 Economico	          Contiene 6 ficheros con los mapas del factor económico
+
 Environment	        Contiene 1 fichero con los paquetes utilizados.
+
 General	            Contiene 1 fichero con el mapa general de la ciudad de madrid
+
 GeoProcesosArcGis	  Contiene 2 ficheros empaquetados en arcgis donde se realizaron todas las transformaciones a capas
+
 Normativos	        Contiene 1 fichero con el mapa del suelo residencial de la ciudad de madrid
+
 Social	            Contiene 6 ficheros con los mapas del factor social
+
 TFMOAbrilT_files	  Contiene 18 ficheros de las imagenes realizadas para la predicción del modelo
+
 Turismo	            Contiene 10 ficheros con los mapas del factor Turismo
+
 Ficheros Limpieza   Contiene 35 ficheros utilizados en ls elaboración del modelo predictivo
+
 
