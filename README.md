@@ -9,18 +9,18 @@ Para determinar si existe gentrificación en algunas zonas o barrios de la ciuda
 El proceso de extracción, transformación y cargue de datos se dividió en dos ejes, los que contienen datos alfanuméricos y la segunda que contiene un componente geográfico, donde luego se realiza un análisis y se determina el nivel de gentrificación en los diferentes barrios de la ciudad y se conocerá su variación a través del tiempo con el fin de encontrar patrones que determinen si existe el proceso o si puede existir en un futuro cercano.
 
 
-#Autor
+# Autor
 
 Oscar Javier Abril Tique
 Máster Universitario en Ciencia de Datos
 Big Data en Sistema de información geográfica
 
-#Tutores
+# Tutores
 Anna Muñoz Bollas
 Albert Solé Ribalta
 
 
-#Estructura del Git
+# Estructura del Git
 Carpetas
 Análisis            Contiene 10 mapas que visulizan los diferentes tipos de cluster y los analisis de las 5 principales variables
 Codigo	            Contiene 1 fichero con el codigo realizado en python 
